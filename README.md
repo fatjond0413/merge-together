@@ -1,4 +1,4 @@
 sep
 is
-good
+some
 class
