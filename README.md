@@ -1,1 +1,4 @@
-# merge-together
+sep
+an
+some
+class
