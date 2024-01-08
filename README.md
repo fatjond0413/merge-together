@@ -1,4 +1,4 @@
 sep
-an
+is
 some
-class
+program
