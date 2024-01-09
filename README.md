@@ -1,5 +1,5 @@
 sep
 is
-peppermint
-class
+awesome
+program
 
